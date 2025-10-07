@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 "Adding a new line to file1.txt" 
 "Different change in develop branch" 
+=======
+"Change in feature/conflict branch" 
+>>>>>>> feature/conflict
